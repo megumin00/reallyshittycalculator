@@ -1,2 +1,2 @@
-# reallyshittycalculator
-a shitty calculator
+#bad calculator
+its prettyt bad
