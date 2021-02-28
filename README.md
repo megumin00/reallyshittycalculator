@@ -4,7 +4,6 @@
 
 A simple graphical calculator using Python's PySimpleGUI. In essence, a wrapper for computations on python interpreter.
 
-
 ## Installation
 
 **Dependencies:** Python3, PySimpleGUI, Tkinter
@@ -28,5 +27,4 @@ pip3 install pysimplegui
 ## License
 
 TBD
-
 
